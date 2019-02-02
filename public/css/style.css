@@ -6,3 +6,77 @@
 
 body{background:#fafafa;font-family:Poppins;}
 
+ <style>
+    .nav-back-color
+    {
+    background-color: #871C13;
+    }
+    .navlist>ul> li >a
+    {
+    color:white !important;
+    padding: 0px 20px 5px 20px;
+    }
+
+     .navlist>ul> li 
+     {
+      padding: 0px 20px 5px 20px;
+     }
+
+    .navbar-brand
+    {
+      color: white !important;
+    }
+    .ser-link
+    {
+    background-color: #C92E23;
+    border-radius: 30px;
+    }
+    .contentmain
+    {
+    background-color: #F89D13;
+    margin-top: 40px;
+    padding: 10px 0px 0px 10px;
+    height: 420px;
+    }
+    .start
+    {
+      color:white;
+      padding:60px 60px 0px 20px;
+    }
+    .imagecol >img 
+    {
+      margin-top: -50px;
+      margin-left: -70px;
+      width: 120%;
+
+
+    }
+    .btn-rad
+    {
+       padding: 0px 20px 5px 20px;
+      border-radius: 20px;
+    }
+    .btn-log
+    {
+      background-color: #00000063;
+      color:white;
+    }
+    .form-group > input
+    {
+      border-radius: 30px !important;
+      border:none;
+    }
+    .forg > a
+    {
+      float:right;
+      color: white;
+    }
+    .footer-contents > ul  >li
+    {
+      /*list-style-type: none;*/
+      display: inline !important;
+       padding: 0px 20px 5px 20px !important;
+
+    }
+    
+    </style>
